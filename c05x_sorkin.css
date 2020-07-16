@@ -1,0 +1,71 @@
+html{
+	background-color: yellow;
+	padding-left: 300px;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	background-color: white;
+	border: 5px solid;
+	border-color: blue;
+	border: 20px double blue;
+	width: 650px;
+	padding: 20px;
+	margin: 50px;
+}
+
+img {float:left; padding-right: 15px;
+	}
+
+cite
+{
+	font-style: normal;
+	text-align: right;
+	color: blue;
+	display: block;
+	margin-top: -10px;
+	margin-bottom: 25px;
+}
+
+footer p 
+{
+	text-align: center;
+	font-size: 90%;
+}
+
+footer
+{
+	border-top: 5px solid blue;
+	font-weight: bold;
+}
+
+blockquote
+{
+	text-indent: 0px;
+	margin: 0px;
+	margin-top: -15px;
+}
+
+ul
+{
+	text-indent: -20px;
+	margin-top: 15px;
+}
+
+
+h1
+{
+	color: blue;
+	font-size: 150%;
+}
+
+h2
+{
+	font-size: 125%;
+}
+
+h3
+{
+	font-size: 115%;
+}
